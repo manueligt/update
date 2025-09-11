@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.6.0.0</version>
+  <!-- URL copiada desde el asset del release -->
+  <url>https://github.com/manueligt/update/releases/download/v1.6.0.0/MiApp_Setup.exe</url>
+  <!-- Enlace a la página del release para el changelog -->
+  <changelog>https://github.com/manueligt/update/releases/tag/v1.6.0.0</changelog>
+  <mandatory>true</mandatory>
+</item>
