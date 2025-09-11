@@ -6,4 +6,5 @@
   <!-- Enlace a la página del release para el changelog -->
   <changelog>https://github.com/manueligt/update/releases/tag/v1.6.0.0</changelog>
   <mandatory>true</mandatory>
+
 </item>
