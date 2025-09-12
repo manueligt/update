@@ -1,4 +1,4 @@
-Novedades en la v1.5.0.0
-* Nueva interfaz de usuario rediseñada
-* Mejora del rendimiento en un 40%
-* Se corrigió el error crítico al exportar PDF
+Novedades en la v1.6.0.0
+* Cambio de letras MAYUSCULAS en el Ticket
+* Se realizaron ajustes en los Informes de Existencias
+* Se corrigió el error crítico al cancelar los Traspasos de Salida
