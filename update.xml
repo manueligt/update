@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.7.0.0</version>
+  <version>1.8.0.0</version>
   <!-- URL copiada desde el asset del release -->
-  <url>https://github.com/manueligt/update/releases/download/1.7.0.0/Cloud_Setup.exe</url>
+  <url>https://github.com/manueligt/update/releases/download/1.8.0.0/Cloud_Setup.exe</url>
   <!-- Enlace a la página del release para el changelog -->
   <changelog>https://raw.githubusercontent.com/manueligt/update/main/CHANGELOG.md</changelog>
   <mandatory>true</mandatory>
 
 </item>
+
 
 
 
