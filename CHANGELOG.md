@@ -1,3 +1,5 @@
-Novedades en la v1.8.1.0
-* Se corrigio algunos datos de la toma de inventario inicial
+Novedades en la v1.8.7.0
+* Se cambio la forma en la que se toma inventario inicial
+* Se agrego el cierre de caja automatico por hora (beta)
+* SE CAMBIO EN SU TOTALIDAD TODA LA INTERFAZ DEL SISTEMA PARA EVITAR ERRORES DE VISUALIZACION EN DIFERENTE HARDWARE
   
