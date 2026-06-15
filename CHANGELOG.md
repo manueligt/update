@@ -1,2 +1,2 @@
-Novedades en la v1.8.8.4
-* Se agrega la opción de reinicio de inventario con un solo botón
+Novedades en la v1.8.8.5
+* Se corrige que no se muestran los traspasos de salida
