@@ -1,2 +1,2 @@
-Novedades en la v1.8.8.5
-* Se corrige que no se muestran los traspasos de salida
+Novedades en la v1.8.9.2
+* Se corrige modulo de compras
