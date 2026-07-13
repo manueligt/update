@@ -1,2 +1,1 @@
-Novedades en la v1.8.9.3
-* Se corrige modulo de conexion
+1.- Corrección de busqueda de los modulos de traspasos entradas y salidas
