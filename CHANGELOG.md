@@ -1,1 +1,1 @@
-1.- Corrección de busqueda de los modulos de traspasos entradas y salidas
+1.- Corrección mensaje de error en pantalla principal
